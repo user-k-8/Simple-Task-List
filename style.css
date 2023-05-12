@@ -1,0 +1,75 @@
+.sub-heading{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color:  rgb(195, 132, 241);
+    text-align: center;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+
+}
+
+.list{
+  
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  
+}
+.remove-task-buttons{
+  
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+  
+}
+
+.hero-bg{
+    background-color: rgb(44, 24, 64);
+}
+
+.page-color{
+    background-color: rgb(72, 52, 131);
+    width: 100%;
+    height: 100%;
+}
+
+.simpleTaskHeading{
+    color: rgb(195, 132, 241);
+}
+
+#removeLastTask{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+
+}
+
+#removeFirstTask{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+
+}
+
+#removeSpecificTask{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    
+}
+
+#addTask{
+    
+
+}
